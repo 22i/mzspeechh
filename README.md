@@ -1,5 +1,5 @@
 # mzspeechh
-Brings Mark Zuckerberg Harvard speech to Minetest
+Brings Mark Zuckerberg's Harvard speech to Minetest
 
 when playing Minetest press t to bring up chat then type in this command:
 
